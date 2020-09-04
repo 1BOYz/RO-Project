@@ -1,0 +1,1 @@
+CMD/K _lib\opencv_annotation.exe --annotations=pos.txt --images=positive/
