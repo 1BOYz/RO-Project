@@ -5,4 +5,7 @@ this is my freetime project
 pip install -r requirements.txt
 ```
 # Run the code
-You should running codein administrator mode
+You should running code in administrator mode
+``` bash
+python auto_ro.py
+```
