@@ -22,6 +22,7 @@ def draw_rectangles(haystack_img, rectangles):
 
 # load model
 cascade_spore = cv.CascadeClassifier('cascade/cascade.xml')
+# print(os.listdir("./"))
 
 # load file name
 list_file = os.listdir('positive/')
