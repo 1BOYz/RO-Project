@@ -1,8 +1,8 @@
 :: Identifying and control variable part
-set /a width = 24	&:: Width (in pixels) of the output samples.
-set /a height = 24	&:: Height (in pixels) of the output samples.
-set /a nPos = 15	&:: Number of positive samples used in training for every classifier stage.
-set /a nNeg = 30	&:: Number of negative samples used in training for every classifier stage.
+set /a width = 26	&:: Width (in pixels) of the output samples.
+set /a height = 26	&:: Height (in pixels) of the output samples.
+set /a nPos = 19	&:: Number of positive samples used in training for every classifier stage.
+set /a nNeg = 31	&:: Number of negative samples used in training for every classifier stage.
 set /a nStage = 12	&:: Number of cascade stages to be trained.
 
 :: Command part

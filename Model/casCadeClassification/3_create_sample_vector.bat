@@ -1,6 +1,6 @@
 :: Identifying and control variable part
-set /a width = 24	&:: Width (in pixels) of the output samples.
-set /a height = 24	&:: Height (in pixels) of the output samples.
+set /a width = 26	&:: Width (in pixels) of the output samples.
+set /a height = 26	&:: Height (in pixels) of the output samples.
 set /a numPosGen = 1000	&:: Number of positive samples to generate.
 
 :: Command part
